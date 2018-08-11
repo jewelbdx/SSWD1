@@ -11,3 +11,14 @@ h1 {
 .special_color {
     color: darkred;
 }
+
+#text {
+    color: blueviolet;
+    font-family: "Arial Black";
+
+    border: 2px double red;
+
+    border-color: red;
+    border-style: double;
+    border-width: 2px;
+}
