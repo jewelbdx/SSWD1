@@ -1,0 +1,13 @@
+/* This is External CSS */
+
+p {
+    color: red;
+}
+
+h1 {
+    color: blue;
+}
+
+.special_color {
+    color: darkred;
+}
